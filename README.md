@@ -1,1 +1,2 @@
-nomore
+ImplicitIntent&ImpliccitIntentReciever
+Myword- sqlite 
